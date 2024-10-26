@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/twitter/follow/yourusername?style=social" alt="Twitter">
   </a> -->
   <a href="https://github.com/RyoShimano">
-    <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/RyoShimano?style=social" alt="GitHub followers">
   </a>
   <a href="mailto:e1j21027@st.oit.ac.jp">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
@@ -26,7 +26,7 @@
 
 ### 🌟 **自己紹介**
 
-- 🔭 現在、**[プロジェクト名](プロジェクトURL)** に取り組んでいます。
+- 🔭 現在、**連合学習(Federated Learning)下におけるセグメンテーションタスクの効率化** に取り組んでいます。
 - 🌱 学習中：`連合学習`、`機械学習`、`ディープラーニング`、`クラウドコンピューティング`
 - 👯 コラボレーションに興味あり：**オープンソースプロジェクト**、**AI研究**
 - 💬 質問歓迎：**Python**、**データサイエンス**、**分散システム**
@@ -83,7 +83,7 @@
 
 ### 🎉 **その他の情報**
 
-- 📫 **連絡先**：your.email@example.com
+- 📫 **連絡先**：e1j21027@st.oit.ac.jp
 - ⚡ **興味深い事実**：私は1年間で4カ国を旅しました！(台湾、韓国、香港、フランス)
 
 ---

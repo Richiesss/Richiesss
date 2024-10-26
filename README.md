@@ -1,7 +1,7 @@
 <!-- プロフィールのバナー画像 -->
 
 
-<h1 align="center">こんにちは、Ryo Shimano です！👋</h1>
+<h1 align="center">Hi! I'm Richiesss👋</h1>
 
 <p align="center">
   <em>ソフトウェアエンジニア ｜ データサイエンティスト ｜ 技術愛好家</em>

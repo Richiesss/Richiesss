@@ -1,7 +1,5 @@
 <!-- プロフィールのバナー画像 -->
-<p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%">
-</p>
+
 
 <h1 align="center">こんにちは、Ryo Shimano です！👋</h1>
 

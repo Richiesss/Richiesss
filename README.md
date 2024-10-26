@@ -14,7 +14,7 @@
 <!--   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/twitter/follow/yourusername?style=social" alt="Twitter">
   </a> -->
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/RyoShimano">
     <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub followers">
   </a>
   <a href="mailto:e1j21027@st.oit.ac.jp">
@@ -27,7 +27,7 @@
 ### 🌟 **自己紹介**
 
 - 🔭 現在、**[プロジェクト名](プロジェクトURL)** に取り組んでいます。
-- 🌱 学習中：`機械学習`、`ディープラーニング`、`クラウドコンピューティング`
+- 🌱 学習中：`連合学習`、`機械学習`、`ディープラーニング`、`クラウドコンピューティング`
 - 👯 コラボレーションに興味あり：**オープンソースプロジェクト**、**AI研究**
 - 💬 質問歓迎：**Python**、**データサイエンス**、**分散システム**
 - ⚡ 趣味：旅行 ✈️
@@ -59,19 +59,19 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyoShimano&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyoShimano&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoShimano&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </p>
 
 ---
 
 ### 🌐 **ソーシャルリンク**
 
-
+<p>
   <a href="https://www.linkedin.com/in/%E5%87%8C-%E5%B3%B6%E9%87%8E-70042425b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 
   <a href="mailto:e1j21027@st.oit.ac.jplink"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"></a>
@@ -79,45 +79,16 @@
 
 ---
 
-### 💻 **最新のプロジェクト**
 
-- [**🌐 プロジェクト1**](https://github.com/yourusername/project1) - プロジェクトの簡単な説明。主要な技術や目的を記載します。
-- [**📱 プロジェクト2**](https://github.com/yourusername/project2) - モバイルアプリ開発プロジェクトの説明。
-- [**🤖 プロジェクト3**](https://github.com/yourusername/project3) - AI や機械学習関連のプロジェクト。
-
----
-
-### 📝 **最新のブログ投稿**
-
-<!-- BLOG-POST-LIST:START -->
-- [✨ ブログ投稿1のタイトル](https://yourblog.com/post1) - 簡単な紹介文。
-- [🚀 ブログ投稿2のタイトル](https://yourblog.com/post2) - 簡単な紹介文。
-- [💡 ブログ投稿3のタイトル](https://yourblog.com/post3) - 簡単な紹介文。
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎯 **目標と計画**
-
-- 🚀 **短期目標**
-  - [ ] 新しいウェブアプリのリリース
-  - [ ] 技術カンファレンスでの発表
-- 🌟 **長期目標**
-  - [ ] オープンソースコミュニティへの継続的な貢献
-  - [ ] 技術書の出版
-
----
 
 ### 🎉 **その他の情報**
 
 - 📫 **連絡先**：your.email@example.com
-- 😄 **プロナウン**：彼 / 彼
-- ⚡ **興味深い事実**：私は1年間で5カ国を旅しました！
+- ⚡ **興味深い事実**：私は1年間で4カ国を旅しました！(台湾、韓国、香港、フランス)
 
 ---
 
 <!-- フッター -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile Views">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon!-brightgreen" alt="Thanks">
 </p>

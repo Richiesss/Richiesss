@@ -72,7 +72,7 @@
 
 ### 💻 **Latest Projects**
 
-- [**🌐 Project 1**](https://github.com/Richiesss/Federated_Learning) - A distributed information processing project focusing on scalable architectures.
+- [**🌐 Federated Learning**](https://github.com/Richiesss/Federated_Learning) - A distributed information processing project focusing on scalable architectures.
 
 ---
 

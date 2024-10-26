@@ -20,8 +20,8 @@
 
 ### 🌟 **About Me**
 
-- 🎓 I'm a student at the **Department of Data Science**, Faculty of Information Science, **大阪工業大学 [OIT](https://www.oit.ac.jp/)**.
-- 🔬 Member of the **[分散情報処理研究室](https://www.oit.ac.jp/laboratory/room/404) Distributed Information Processing Laboratory**.
+- 🎓 I'm a student at the **Department of Data Science**, Faculty of Information Science, **[大阪工業大学](https://www.oit.ac.jp/) (OIT)**.
+- 🔬 Member of the **[分散情報処理研究室](https://www.oit.ac.jp/laboratory/room/404) (Distributed Information Processing Laboratory)**.
 - 🔭 Currently working on **Federated Learning (連合学習)** focusing on distributed systems and data analysis.
 - 🌱 Learning about `Fedetated Learning`, `Machine Learning`, `Deep Learning`, and `Cloud Computing`.
 - 👯 Looking to collaborate on **Open Source Projects** and **AI Research**.

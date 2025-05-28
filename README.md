@@ -83,7 +83,7 @@
 
 ### 📫 **Contact Me**
 
-- **Email**: e1j21027@st.oit.ac.jp
+- **Email**: m1m02530125@oit.ac.jp
 - **Pronouns**: He/Him
 - **Location**: Osaka, Japan
 

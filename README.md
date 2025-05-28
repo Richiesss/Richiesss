@@ -65,7 +65,7 @@
 
   <a href="https://www.linkedin.com/in/%E5%87%8C-%E5%B3%B6%E9%87%8E-70042425b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 
-  <a href="mailto:e1j21027@st.oit.ac.jp"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"></a>
+  <a href="mailto:m1m02530125@oit.ac.jp"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"></a>
 </p>
 
 ---

@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Richiesss! 👋</h1>
 
 <p align="center">
-  <em>Undergraduate Student in Data Science ｜ Osaka Institute of Technology</em>
+  <em>Graduate Student in Data Science ｜ Osaka Institute of Technology</em>
 </p>
 
 <!-- Social Media Badges -->

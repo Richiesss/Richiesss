@@ -1,96 +1,113 @@
-<!-- Profile Banner Image -->
-
-<h1 align="center">Hello, I'm Richiesss! 👋</h1>
+# Hello, I'm Richiesss! 👋
 
 <p align="center">
-  <em>Graduate Student in Data Science ｜ Osaka Institute of Technology</em>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Graduate+Student+in+Data+Science;Federated+Learning+Researcher;AI+%26+ML+Enthusiast&center=true&width=600&height=50&color=58A6FF">
 </p>
 
-<!-- Social Media Badges -->
+<p align="center">
+  <em>🎓 Graduate Student in Data Science | 🏢 Osaka Institute of Technology</em>
+</p>
+
 <p align="center">
   <a href="https://github.com/Richiesss">
-    <img src="https://img.shields.io/github/followers/Richiesss?style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/Richiesss?style=for-the-badge&logo=github&color=58A6FF" alt="GitHub followers">
   </a>
-  <a href="mailto:e1j21027@st.oit.ac.jp">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:m1m02530125@oit.ac.jp">
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Richiesss&style=for-the-badge&color=58A6FF" alt="Profile Views">
+</p>
+
+---
+
+## 🌟 About Me
+
+> Passionate about distributed systems and machine learning, currently exploring the frontiers of federated learning.
+
+- 🎓 **Graduate Student** at the Department of Data Science, Faculty of Information Science, [**Osaka Institute of Technology (OIT)**](https://www.oit.ac.jp/)
+- 🔬 **Research Member** of the [**Distributed Information Processing Laboratory**](https://www.oit.ac.jp/laboratory/room/404)
+- 🔭 **Currently researching:** Federated Learning with focus on distributed systems and privacy-preserving ML
+- 🌱 **Learning:** Advanced ML algorithms, distributed computing architectures, and cloud-native technologies
+- 👯 **Open to collaborate on:** AI research projects, open source contributions, and innovative data science solutions
+- 🌍 **Fun fact:** Traveled to 5 countries in one year - always curious about global perspectives!
+- 📍 **Based in:** Osaka, Japan
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy" alt="Data Science & ML" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vscode" alt="DevOps & Tools" />
+</p>
+
+**Languages & Frameworks:**
+- **Python** - Primary language for data science and ML
+- **PyTorch & TensorFlow** - Deep learning frameworks
+- **JavaScript** - Web development and visualization
+
+**Specializations:**
+- 🤖 **Federated Learning** - Privacy-preserving distributed ML
+- 📊 **Data Science** - Statistical analysis and modeling  
+- ☁️ **Cloud Computing** - Scalable ML deployment
+- 🔗 **Distributed Systems** - Large-scale data processing
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Richiesss&show_icons=true&theme=github_dark&border_color=58A6FF&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richiesss&theme=github-dark-blue&border=58A6FF" alt="GitHub Streak" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richiesss&layout=compact&theme=github_dark&border_color=58A6FF&title_color=58A6FF" alt="Most Used Languages" width="55%">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**🔗 Federated Learning Framework**](https://github.com/Richiesss/Federated_Learning) | Distributed ML system for privacy-preserving learning across multiple nodes | Python, PyTorch, Docker |
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/%E5%87%8C-%E5%B3%B6%E9%87%8E-70042425b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:m1m02530125@oit.ac.jp">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Richiesss">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-### 🌟 **About Me**
+## 💌 Contact Information
 
-- 🎓 I'm a student at the **Department of Data Science**, Faculty of Information Science, **[大阪工業大学](https://www.oit.ac.jp/) (OIT)**.
-- 🔬 Member of the **[分散情報処理研究室](https://www.oit.ac.jp/laboratory/room/404) (Distributed Information Processing Laboratory)**.
-- 🔭 Currently working on **Federated Learning (連合学習)** focusing on distributed systems and data analysis.
-- 🌱 Learning about `Fedetated Learning`, `Machine Learning`, `Deep Learning`, and `Cloud Computing`.
-- 👯 Looking to collaborate on **Open Source Projects** and **AI Research**.
-- 💬 Ask me about **Python**, **Data Science**, and **Distributed Systems**.
-- ⚡ Fun fact: I have traveled to 5 countries in a year!
+- **📧 Email:** m1m02530125@oit.ac.jp
+- **🏫 Institution:** Osaka Institute of Technology
+- **🔬 Lab:** Distributed Information Processing Laboratory
+- **📍 Location:** Osaka, Japan
+- **👤 Pronouns:** He/Him
 
 ---
 
-### 🛠️ **Tech Stack**
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
-</p>
-
----
-
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richiesss&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richiesss&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richiesss&layout=compact&theme=radical" alt="Top Languages" width="50%">
-</p>
-
----
-
-### 🌐 **Connect with Me**
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/%E5%87%8C-%E5%B3%B6%E9%87%8E-70042425b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-
-  <a href="mailto:m1m02530125@oit.ac.jp"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"></a>
-</p>
-
----
-
-### 💻 **Latest Projects**
-
-- [**🌐 Federated Learning**](https://github.com/Richiesss/Federated_Learning) - A distributed information processing project focusing on scalable architectures.
-
----
-
-
-
----
-
-
-### 📫 **Contact Me**
-
-- **Email**: m1m02530125@oit.ac.jp
-- **Pronouns**: He/Him
-- **Location**: Osaka, Japan
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Richiesss&color=brightgreen" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon!-brightgreen" alt="Thanks">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐%20Thanks%20for%20visiting!%20⭐-Feel%20free%20to%20reach%20out!-58A6FF?style=for-the-badge" alt="Thanks for visiting">
+</div>
